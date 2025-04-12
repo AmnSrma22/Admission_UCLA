@@ -1,4 +1,5 @@
 # 🎓 UCLA Graduate Admission Score Estimator
+Viwe the app from here "https://admissionucla-awuvovuhfebyarq7glecvu.streamlit.app/"
 
 Predict a candidate’s likelihood of being accepted to UCLA using test scores, GPA, and research background. Built with a neural network and deployed via Streamlit.
 
